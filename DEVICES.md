@@ -201,6 +201,7 @@
 - Saswell T29UTW thermostat
 - T5E-WF thermostat
 - Thermoval TVT40 thermostat
+- Vine TJ550 thermostat
 
 ### Fans
 
@@ -428,6 +429,7 @@
 
 ### Battery Charger
 
+- AFYEEV 32A 22kW portable EV charger
 - EcoPoint EV charger
 - EVSun EV charger
 - Feyree EV charger (several models)
